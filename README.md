@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0231-power-of-two) |
+| [2235-add-two-integers](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/2235-add-two-integers) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
 |  |
