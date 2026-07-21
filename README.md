@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0231-power-of-two) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -31,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/1260-shift-2d-grid) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
