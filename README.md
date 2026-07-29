@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0007-reverse-integer) |
 | [0231-power-of-two](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0371-sum-of-two-integers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0628-maximum-product-of-three-numbers) |
