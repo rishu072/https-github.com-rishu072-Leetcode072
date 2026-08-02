@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0001-two-sum) |
 | [0054-spiral-matrix](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0054-spiral-matrix) |
 | [0136-single-number](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0283-move-zeroes) |
 | [0486-predict-the-winner](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0486-predict-the-winner) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0242-valid-anagram) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Math
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
