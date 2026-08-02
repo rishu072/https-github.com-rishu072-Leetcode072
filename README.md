@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0054-spiral-matrix) |
 | [0136-single-number](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0136-single-number) |
 | [0238-product-of-array-except-self](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0283-move-zeroes) |
 | [0486-predict-the-winner](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0877-stone-game) |
@@ -104,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0877-stone-game) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
