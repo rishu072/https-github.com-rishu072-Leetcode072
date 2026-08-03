@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0283-move-zeroes) |
@@ -123,5 +124,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0283-move-zeroes) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
