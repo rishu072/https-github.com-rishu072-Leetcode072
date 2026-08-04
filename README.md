@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0045-jump-game-ii) |
 | [0054-spiral-matrix](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0055-jump-game) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
