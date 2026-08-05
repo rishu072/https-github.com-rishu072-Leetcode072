@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0007-reverse-integer) |
+| [0069-sqrtx](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0371-sum-of-two-integers) |
 | [0486-predict-the-winner](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0486-predict-the-winner) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0704-binary-search) |
@@ -146,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0278-first-bad-version) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
