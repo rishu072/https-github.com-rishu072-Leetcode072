@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0242-valid-anagram) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sorting
 |  |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0135-candy) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/1406-stone-game-iii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Game Theory
 |  |
 | ------- |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0283-move-zeroes) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Binary Search
 |  |
 | ------- |
