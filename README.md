@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0486-predict-the-winner](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0486-predict-the-winner) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0540-single-element-in-a-sorted-array) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0371-sum-of-two-integers) |
 ## Recursion
 |  |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0031-next-permutation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0287-find-the-duplicate-number) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Binary Search
 |  |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0704-binary-search) |
 ## Interactive
@@ -261,4 +265,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0128-longest-consecutive-sequence) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
