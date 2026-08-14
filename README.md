@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0486-predict-the-winner](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0486-predict-the-winner) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0877-stone-game) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0560-subarray-sum-equals-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/1480-running-sum-of-1d-array) |
 ## Heap (Priority Queue)
 |  |
