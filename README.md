@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0074-search-a-2d-matrix) |
+| [0128-longest-consecutive-sequence](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0136-single-number) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0128-longest-consecutive-sequence](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0242-valid-anagram) |
@@ -250,4 +252,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0062-unique-paths) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
