@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0001-two-sum) |
+| [0031-next-permutation](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0045-jump-game-ii) |
 | [0054-spiral-matrix](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0054-spiral-matrix) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0031-next-permutation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0283-move-zeroes) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
