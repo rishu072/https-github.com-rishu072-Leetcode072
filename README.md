@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/1929-concatenation-of-array) |
+| [2029-stone-game-ix](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/1510-stone-game-iv) |
 | [1688-count-of-matches-in-tournament](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/1688-count-of-matches-in-tournament) |
+| [2029-stone-game-ix](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/2029-stone-game-ix) |
 | [2235-add-two-integers](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/2235-add-two-integers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0229-majority-element-ii) |
+| [2029-stone-game-ix](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Greedy
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0135-candy) |
+| [2029-stone-game-ix](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -179,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/2029-stone-game-ix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -242,10 +247,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
@@ -254,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/2029-stone-game-ix) |
 ## Quicksort
 |  |
 | ------- |
