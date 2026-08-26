@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0424-longest-repeating-character-replacement) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0424-longest-repeating-character-replacement) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Depth-First Search
 |  |
