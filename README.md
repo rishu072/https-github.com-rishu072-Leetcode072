@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0560-subarray-sum-equals-k) |
+| [0771-jewels-and-stones](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0771-jewels-and-stones) |
 | [1386-cinema-seat-allocation](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/1386-cinema-seat-allocation) |
 | [2351-first-letter-to-appear-twice](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/2351-first-letter-to-appear-twice) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0424-longest-repeating-character-replacement) |
+| [0771-jewels-and-stones](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0771-jewels-and-stones) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2351-first-letter-to-appear-twice](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/2351-first-letter-to-appear-twice) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
