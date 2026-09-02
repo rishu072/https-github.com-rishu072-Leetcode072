@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0704-binary-search) |
+| [0705-design-hashset](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0705-design-hashset) |
 | [0877-stone-game](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/1260-shift-2d-grid) |
 | [1386-cinema-seat-allocation](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/1386-cinema-seat-allocation) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0560-subarray-sum-equals-k) |
+| [0705-design-hashset](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0705-design-hashset) |
 | [0771-jewels-and-stones](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0771-jewels-and-stones) |
 | [1386-cinema-seat-allocation](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/1386-cinema-seat-allocation) |
 | [2351-first-letter-to-appear-twice](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/2351-first-letter-to-appear-twice) |
@@ -330,6 +332,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0237-delete-node-in-a-linked-list) |
+| [0705-design-hashset](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0705-design-hashset) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Design
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0705-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
