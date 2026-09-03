@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/1929-concatenation-of-array) |
 | [2029-stone-game-ix](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0424-longest-repeating-character-replacement) |
 | [0771-jewels-and-stones](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0771-jewels-and-stones) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/2351-first-letter-to-appear-twice) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0912-sort-an-array](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/2343-query-kth-smallest-trimmed-number) |
 ## Counting Sort
 |  |
 | ------- |
@@ -267,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0912-sort-an-array) |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/2343-query-kth-smallest-trimmed-number) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -375,8 +380,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0164-maximum-gap](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0164-maximum-gap) |
 | [0912-sort-an-array](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0912-sort-an-array) |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/2343-query-kth-smallest-trimmed-number) |
 ## Merge Sort
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0912-sort-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/2343-query-kth-smallest-trimmed-number) |
 <!---LeetCode Topics End-->
