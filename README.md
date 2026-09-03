@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0705-design-hashset) |
 | [0877-stone-game](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0877-stone-game) |
+| [0912-sort-an-array](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0912-sort-an-array) |
 | [1260-shift-2d-grid](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/1260-shift-2d-grid) |
 | [1386-cinema-seat-allocation](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/1406-stone-game-iii) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0628-maximum-product-of-three-numbers) |
+| [0912-sort-an-array](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting Sort
 |  |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0387-first-unique-character-in-a-string) |
+| [0912-sort-an-array](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0912-sort-an-array) |
 | [2029-stone-game-ix](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/2029-stone-game-ix) |
 | [2351-first-letter-to-appear-twice](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/2351-first-letter-to-appear-twice) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -262,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0912-sort-an-array) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -364,8 +369,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0164-maximum-gap) |
+| [0912-sort-an-array](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0164-maximum-gap) |
+| [0912-sort-an-array](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
