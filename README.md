@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0424-longest-repeating-character-replacement) |
 | [0771-jewels-and-stones](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0771-jewels-and-stones) |
+| [0940-distinct-subsequences-ii](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0940-distinct-subsequences-ii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/2351-first-letter-to-appear-twice) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0940-distinct-subsequences-ii) |
 | [1406-stone-game-iii](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/1510-stone-game-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
