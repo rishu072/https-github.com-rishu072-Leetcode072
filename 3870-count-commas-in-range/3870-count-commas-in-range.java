@@ -1,11 +1,8 @@
 class Solution {
     public int countCommas(int n) {
-        int r = 0;
-        for(int i = 1; i<=n; ++i){
-            if(i>999){
-                r += 1;
-            }
+        if(n<1000){
+            return 0;
         }
-        return r;
+        return (n-1000)+1;
     }
 }
