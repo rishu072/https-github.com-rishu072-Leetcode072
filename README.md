@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1406-stone-game-iii](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/1510-stone-game-iv) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1688-count-of-matches-in-tournament](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/1688-count-of-matches-in-tournament) |
 | [2029-stone-game-ix](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/2029-stone-game-ix) |
 | [2235-add-two-integers](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/2235-add-two-integers) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/1480-running-sum-of-1d-array) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3903-smallest-stable-index-i](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/3904-smallest-stable-index-ii) |
 ## Heap (Priority Queue)
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0940-distinct-subsequences-ii) |
 | [1406-stone-game-iii](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/1510-stone-game-iv) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -363,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0062-unique-paths) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Union-Find
 |  |
