@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3467-transform-array-by-parity](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/3467-transform-array-by-parity) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/3524-find-x-value-of-array-i) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3467-transform-array-by-parity](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/3467-transform-array-by-parity) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3731-find-missing-elements](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/2029-stone-game-ix) |
 | [2351-first-letter-to-appear-twice](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/2351-first-letter-to-appear-twice) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3467-transform-array-by-parity](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/3467-transform-array-by-parity) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Greedy
