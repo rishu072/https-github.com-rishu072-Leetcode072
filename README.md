@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0012-integer-to-roman) |
 | [0128-longest-consecutive-sequence](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0217-contains-duplicate) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0069-sqrtx) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0012-integer-to-roman) |
 | [0115-distinct-subsequences](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0115-distinct-subsequences) |
 | [0242-valid-anagram](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0387-first-unique-character-in-a-string) |
