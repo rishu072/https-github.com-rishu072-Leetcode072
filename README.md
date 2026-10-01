@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3903-smallest-stable-index-i](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/3904-smallest-stable-index-ii) |
 | [4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii) |
+| [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## Hash Table
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/3731-find-missing-elements) |
 | [4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii) |
+| [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## Math
 |  |
 | ------- |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3467-transform-array-by-parity](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/3467-transform-array-by-parity) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## Greedy
 |  |
 | ------- |
