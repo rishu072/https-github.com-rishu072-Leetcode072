@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0115-distinct-subsequences) |
 | [0242-valid-anagram](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0387-first-unique-character-in-a-string) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0055-jump-game) |
@@ -494,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0042-trapping-rain-water) |
 | [1096-brace-expansion-ii](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -501,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Monotonic Stack
 |  |
