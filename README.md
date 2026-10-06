@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0678-valid-parenthesis-string) |
 | [0771-jewels-and-stones](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0771-jewels-and-stones) |
 | [0856-score-of-parentheses](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0135-candy) |
 | [0678-valid-parenthesis-string](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2029-stone-game-ix](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/2029-stone-game-ix) |
@@ -504,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0042-trapping-rain-water) |
 | [0678-valid-parenthesis-string](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1096-brace-expansion-ii](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Bracket Sequences
@@ -513,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Monotonic Stack
 |  |
