@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0074-search-a-2d-matrix) |
+| [0118-pascals-triangle](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0135-candy) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0062-unique-paths) |
 | [0115-distinct-subsequences](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0115-distinct-subsequences) |
+| [0118-pascals-triangle](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0118-pascals-triangle) |
 | [0486-predict-the-winner](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0877-stone-game) |
