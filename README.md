@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/1929-concatenation-of-array) |
 | [2029-stone-game-ix](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1552-magnetic-force-between-two-balls](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/1552-magnetic-force-between-two-balls) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/2343-query-kth-smallest-trimmed-number) |
 ## Counting Sort
 |  |
@@ -300,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2029-stone-game-ix](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/2029-stone-game-ix) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -365,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1552-magnetic-force-between-two-balls](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/1552-magnetic-force-between-two-balls) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii) |
