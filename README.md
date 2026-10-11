@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/2588-count-the-number-of-beautiful-subarrays) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
