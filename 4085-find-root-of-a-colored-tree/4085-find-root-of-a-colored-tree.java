@@ -1,0 +1,59 @@
+class Solution {
+    public int findColoredRoot(int[][] edges, String colors) {
+        int n = colors.length();
+
+        int[] degree = new int[n];
+        int[] indegree = new int[n];
+
+        for (int[] edge : edges) {
+            int u = edge[0];
+            int v = edge[1];
+
+            degree[u]++;
+            degree[v]++;
+
+            char cu = colors.charAt(u);
+            char cv = colors.charAt(v);
+
+            if (nextColor(cu) == cv) {
+                indegree[v]++;
+            } else if (nextColor(cv) == cu) {
+                indegree[u]++;
+            } else {
+                return -1;
+            }
+        }
+
+        int root = -1;
+
+        for (int i = 0; i < n; i++) {
+            if (indegree[i] == 0) {
+                if (root != -1) {
+                    return -1;
+                }
+
+                root = i;
+            } else if (indegree[i] > 1) {
+                return -1;
+            }
+        }
+
+        if (root == -1 || degree[root] > 2) {
+            return -1;
+        }
+
+        return root;
+    }
+
+    private char nextColor(char c) {
+        if (c == 'R') {
+            return 'B';
+        }
+
+        if (c == 'B') {
+            return 'W';
+        }
+
+        return 'R';
+    }
+}
