@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0486-predict-the-winner) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0560-subarray-sum-equals-k) |
+| [0561-array-partition](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0705-design-hashset) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0349-intersection-of-two-arrays) |
+| [0561-array-partition](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0912-sort-an-array) |
 | [1096-brace-expansion-ii](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/1096-brace-expansion-ii) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0387-first-unique-character-in-a-string) |
+| [0561-array-partition](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0912-sort-an-array) |
 | [2029-stone-game-ix](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/2029-stone-game-ix) |
 | [2351-first-letter-to-appear-twice](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/2351-first-letter-to-appear-twice) |
@@ -316,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0135-candy) |
+| [0561-array-partition](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0561-array-partition) |
 | [0678-valid-parenthesis-string](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/1386-cinema-seat-allocation) |
