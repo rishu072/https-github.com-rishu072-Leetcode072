@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0912-sort-an-array) |
+| [1254-number-of-closed-islands](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/1260-shift-2d-grid) |
 | [1386-cinema-seat-allocation](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/1406-stone-game-iii) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0074-search-a-2d-matrix) |
 | [0835-image-overlap](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/1260-shift-2d-grid) |
 | [2965-find-missing-and-repeated-values](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/2965-find-missing-and-repeated-values) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -450,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -457,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/1254-number-of-closed-islands) |
 | [3310-remove-methods-from-project](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
@@ -516,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0128-longest-consecutive-sequence) |
+| [1254-number-of-closed-islands](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Pigeonhole Principle
 |  |
