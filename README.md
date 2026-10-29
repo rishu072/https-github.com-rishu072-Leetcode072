@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0069-sqrtx) |
+| [0168-excel-sheet-column-title](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0168-excel-sheet-column-title) |
 | [0231-power-of-two](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0371-sum-of-two-integers) |
 | [0486-predict-the-winner](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0486-predict-the-winner) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0115-distinct-subsequences) |
+| [0168-excel-sheet-column-title](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0301-remove-invalid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0387-first-unique-character-in-a-string) |
