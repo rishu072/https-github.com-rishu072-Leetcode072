@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0486-predict-the-winner) |
 | [0506-relative-ranks](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0540-single-element-in-a-sorted-array) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0168-excel-sheet-column-title) |
 | [0231-power-of-two](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0371-sum-of-two-integers) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0836-rectangle-overlap) |
