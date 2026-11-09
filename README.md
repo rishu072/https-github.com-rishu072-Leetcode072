@@ -425,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -584,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0237-delete-node-in-a-linked-list) |
 | [0705-design-hashset](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/0705-design-hashset) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
