@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3193-count-the-number-of-inversions](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/3193-count-the-number-of-inversions) |
+| [3364-minimum-positive-sum-subarray](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/3364-minimum-positive-sum-subarray) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3467-transform-array-by-parity](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/3467-transform-array-by-parity) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/2588-count-the-number-of-beautiful-subarrays) |
+| [3364-minimum-positive-sum-subarray](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/3904-smallest-stable-index-ii) |
 | [4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii) |
@@ -507,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3364-minimum-positive-sum-subarray](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/3364-minimum-positive-sum-subarray) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Depth-First Search
 |  |
