@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/1260-shift-2d-grid) |
 | [1688-count-of-matches-in-tournament](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/1688-count-of-matches-in-tournament) |
 | [1929-concatenation-of-array](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/1929-concatenation-of-array) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/3498-reverse-degree-of-a-string) |
 ## Number Theory
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1844-replace-all-digits-with-characters](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/1844-replace-all-digits-with-characters) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/2351-first-letter-to-appear-twice) |
 | [2409-count-days-spent-together](https://github.com/rishu072/https-github.com-rishu072-Leetcode072/tree/master/2409-count-days-spent-together) |
